@@ -1,0 +1,5 @@
+# This is not an offical file!!
+scipy
+tensorflow # only if enabled 
+
+#apex # only fp16
